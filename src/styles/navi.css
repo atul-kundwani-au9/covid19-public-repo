@@ -1,0 +1,17 @@
+a {
+  color: white !important;
+  text-decoration: none !important;
+  background-color: transparent;
+  font-size: 20px;
+  font-family: "Acme",sans-serif;
+  text-shadow: 3px 3px 3px #0f0f0f;
+  font-weight: bold;
+}
+
+a:hover{
+  background-color:black;
+}
+
+a:active{
+  background-color: saddlebrown;
+}

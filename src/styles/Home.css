@@ -1,0 +1,78 @@
+.main-div {
+  width: 70%;
+  padding: 10px;
+  display: flex;
+}
+.corona-title {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.left-rows {
+  margin: 10px;
+  text-align: center;
+}
+
+.img-row {
+  display: flex;
+  justify-content: center;
+}
+
+.card-title {
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: bold;
+  justify-content: center;
+}
+.card-text {
+  justify-content: center;
+  font-size: 28px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.main-row {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin: 10px;
+}
+
+.dropdown-row {
+  padding: 2%;
+}
+
+.button-moreinfo {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.flag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.news-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.atag {
+  color: rgb(1, 1, 7);
+}
+
+.table thead {
+  border: 1px solid black;
+  background-color: orange;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.footer {
+  position:relative;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  background-color: orangered;
+  color: white;
+  /* text-align: center; */
+}

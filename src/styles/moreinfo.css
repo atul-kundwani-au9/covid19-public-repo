@@ -1,0 +1,51 @@
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.badge {
+  font-size: 20px;
+}
+
+.flag-title {
+  font-size: 30px;
+  color: rgb(42, 47, 49);
+  font-weight: bold;
+}
+.active {
+  font-size: 30px;
+}
+.act-card {
+  color: black;
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  height: 87%;
+}
+.world-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(3, 131, 190);
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  color: rgb(1, 116, 116);
+}
+.list-group {
+  border: darkcyan 10px solid;
+  margin-bottom: 10px;
+}
+.bg-secondary {
+  background-color: rgb(106, 215, 252);
+}
+svg {
+  background-color: white;
+}
